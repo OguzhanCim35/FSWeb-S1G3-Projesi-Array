@@ -40,8 +40,8 @@ Aşağıdakileri yapmak için aşağıdaki kopyalama işlevini kullanın:
 */
 
 
-function kopyala(/*kod buraya*/){
-  /*kod buraya*/
+function kopyala(sayi1, sayi2){
+  return sayi1 * sayi2;
 }
 
 
